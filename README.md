@@ -18,7 +18,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/irfansiraj27/IrfanZ_
 ```
 
 ## Install the dependencies:
@@ -26,7 +26,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd termux-wabot
+> cd IrfanZ_
 > bash install.sh
 ```
 
@@ -73,7 +73,7 @@ you've just cloned!!
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 
-## Group
-* [`WhatsApp`](https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v)
-### Donate
-* [`Saweria`](https://saweria.co/donate/mhankbarbar)
+
+
+
+

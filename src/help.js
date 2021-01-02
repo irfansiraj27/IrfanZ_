@@ -205,12 +205,12 @@ const help = (prefix) => {
 ┣➥ *${prefix}ALFA*
 ┣➥ *${prefix}ARUGAZ*
 ┣➥ *${prefix}DUINGZ*
-┣➥ *${prefix}YUKINIKO*
+┣➥ *${prefix}IrfanZ*
 ┣➥ *${prefix}MHANKBARBAR*
 ┣➥ *${prefix}DLL*
 ┃
 ┣━━━━━━━━━━━━━━━━━━━━
-┃ *${prefix}POWERED BY YUKINIKO*
+┃ *${prefix}POWERED BY IrfanZ*
 ┗━━━━━━━━━━━━━━━━━━━━`
 }
 exports.help = help
